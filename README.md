@@ -1,6 +1,6 @@
 # Coined Watts Lab, LLC
 
-> Work hard. Store work. Save energy. Coin your watts.
+> Work hard. Save energy. Coin your watts.
 
 > A Cardano & Ergo Platform based company focused on education, adoption, and utility for regular people and the working class to preserve wealth and prosper. 
 
