@@ -10,4 +10,6 @@ We also seek to develop solutions and products to foster frictionless adoption a
 
 Education & Adoption Plan: Problem w/ USD -> What is fiat money -> What is hard money -> Bitcoin -> Cardano -> Ergo -> Setup
 
+Established: June 2022, Wyoming Based LLC
+
 
