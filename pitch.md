@@ -1,6 +1,6 @@
 ## The Pitch for Decentralized Digital Hard Money and Why Coined Watts Lab
 
-_In dialoge form, a pitch for regular people and small business on why they should adopt digital hard money, e.g. bitcoin, cardano, ergo_
+_In dialogue form, a pitch for regular people and small business on why they should adopt digital hard money, e.g. bitcoin, cardano, ergo_
 
 (Coined Watts, what the hell kind of name is that?)
 
